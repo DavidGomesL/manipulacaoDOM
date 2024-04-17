@@ -210,6 +210,4 @@ btdAddProducts.addEventListener("click", function () {
     modal.style.display = "block"
 });
 
-function closeModel() {
-    
-}
+
